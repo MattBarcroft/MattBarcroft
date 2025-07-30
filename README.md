@@ -40,7 +40,7 @@ I'm a passionate developer specializing in modern cloud architecture and cutting
   ![AWS Elasticache](https://img.shields.io/badge/AWS-Elasticache-323330?&logo=aws&logoColor=orange)&nbsp;
   ![Grafana](https://img.shields.io/badge/Grafana-black?&logo=grafana&logoColor=yellow)&nbsp;
     
-## 📊 GitHub Stats
+## 📊 GitHub Stats (public & private repos)
 
 ![Contributions](https://i.imgur.com/Lz6tNKJ.png)
 
