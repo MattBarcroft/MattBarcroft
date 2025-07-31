@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/7yJhmtw.png)
+![Banner](https://imgur.com/tpAv3QH.png)
 
 # 👋 Aloha
 
